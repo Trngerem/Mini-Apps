@@ -1,0 +1,30 @@
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\bin\Debug\net6.0\Mini App.exe
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\bin\Debug\net6.0\Mini App.deps.json
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\bin\Debug\net6.0\Mini App.runtimeconfig.json
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\bin\Debug\net6.0\Mini App.dll
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\bin\Debug\net6.0\Mini App.pdb
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\Mini App.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\Mini App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\Mini App.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\Mini App.AssemblyInfo.cs
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\Mini App.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\Mini App.dll
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\refint\Mini App.dll
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\Mini App.pdb
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\Mini App.genruntimeconfig.cache
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps\Mini App\Mini App\obj\Debug\net6.0\ref\Mini App.dll
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\bin\Debug\net6.0\Mini App.exe
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\bin\Debug\net6.0\Mini App.deps.json
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\bin\Debug\net6.0\Mini App.runtimeconfig.json
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\bin\Debug\net6.0\Mini App.dll
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\bin\Debug\net6.0\Mini App.pdb
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\Mini App.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\Mini App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\Mini App.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\Mini App.AssemblyInfo.cs
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\Mini App.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\Mini App.dll
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\refint\Mini App.dll
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\Mini App.pdb
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\Mini App.genruntimeconfig.cache
+C:\Users\USER\Documents\Tobi things\uni work\assignment - mini apps 24 november\Mini App\Mini App\obj\Debug\net6.0\ref\Mini App.dll
